@@ -14,7 +14,7 @@ st.markdown(
     O Objetivo é alimentar com os resultados anteriores.\n
     **👈 Atualizar o arquivo edsom.xlsx!
     \n
-    - Download dos resultados:
+    - Download dos resultados via site:
         - [lotofácil](https://loterias.caixa.gov.br/Paginas/Lotofacil.aspx)
         - [Mega-sena](https://loterias.caixa.gov.br/Paginas/Mega-Sena.aspx)
     
