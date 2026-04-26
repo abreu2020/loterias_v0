@@ -102,7 +102,7 @@ if arquivo:
         st.divider()
         rep_selecionada = st.multiselect("Números Repetidos do Anterior:", [7, 8, 9, 10, 11], default=[8, 9, 10])
         
-        puro_alvo = st.selectbox("Frequência Alvo para o Jogo:", [p_data, p_conc, 1, 2, 3, 4, 5, 6, 7,8, 9], index=0)
+        puro_alvo = st.selectbox("Frequência Alvo para o Jogo:", [p_data, p_conc, 1, 2, 3, 4, 5, 6, 7, 8, 9], index=0)
 
     # --- BOTÃO DE AÇÃO ---
     st.divider()
