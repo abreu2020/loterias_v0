@@ -1,0 +1,19 @@
+version = 1
+revision = 3
+requires-python = ">=3.12"
+
+[manifest]
+members = [
+    "03-projetos-loterias",
+    "pages",
+]
+
+[[package]]
+name = "03-projetos-loterias"
+version = "0.1.0"
+source = { virtual = "." }
+
+[[package]]
+name = "pages"
+version = "0.1.0"
+source = { virtual = "pages" }
